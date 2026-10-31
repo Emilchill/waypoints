@@ -1,5 +1,7 @@
 # Waypoints for Cinnabar
 
+**⬇️ Download:** [`waypoints.wasm`](https://github.com/Emilchill/waypoints/raw/main/download/waypoints.wasm) (Cinnabar v0.1.31 or newer). Import it in **Settings → Mods → Import mod...**
+
 Waypoints for Minecraft Bedrock on Cinnabar, made by Emil Chill and Claude AI.
 
 Needs a Cinnabar build with the new mod API (October 25, 2026 or later; SDK commit 613d078).
